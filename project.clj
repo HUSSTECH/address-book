@@ -33,4 +33,4 @@
 
            :production {:ring {:open-browser? false
                                :stacktraces?  false
-                               :auto-reload?  false}}}
+                               :auto-reload?  false}}})
